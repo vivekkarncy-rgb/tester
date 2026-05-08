@@ -516,7 +516,7 @@ button {
   display: grid;
   grid-template-columns: 300px 1fr;
   gap: 1rem;
-  background: linear-gradient(118deg, #205ab1 80%, #12305d 103%);
+  background: linear-gradient(118deg, rgba(32, 177, 95, 1) 75%, rgba(18, 196, 152, 1) 97%);
   color: #fff;
 }
 
